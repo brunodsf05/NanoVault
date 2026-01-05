@@ -133,7 +133,7 @@ function Add-CopyOnClick {
 
 [xml]$xaml = @"
 <Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        Title="PowerShell Vault"
+        Title="NanoVault"
         SizeToContent="WidthAndHeight"
         WindowStartupLocation="CenterScreen"
         MinWidth="400"
